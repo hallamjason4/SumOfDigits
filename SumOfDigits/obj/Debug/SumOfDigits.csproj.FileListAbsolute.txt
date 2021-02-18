@@ -1,0 +1,7 @@
+C:\Users\Jaspon\source\repos\Exercises\SumOfDigits\bin\Debug\SumOfDigits.exe.config
+C:\Users\Jaspon\source\repos\Exercises\SumOfDigits\bin\Debug\SumOfDigits.exe
+C:\Users\Jaspon\source\repos\Exercises\SumOfDigits\bin\Debug\SumOfDigits.pdb
+C:\Users\Jaspon\source\repos\Exercises\SumOfDigits\obj\Debug\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\Jaspon\source\repos\Exercises\SumOfDigits\obj\Debug\SumOfDigits.exe
+C:\Users\Jaspon\source\repos\Exercises\SumOfDigits\obj\Debug\SumOfDigits.pdb
+C:\Users\Jaspon\source\repos\Exercises\SumOfDigits\obj\Debug\SumOfDigits.csprojAssemblyReference.cache
